@@ -18,5 +18,5 @@ if(authorName === true)
 }
 else 
 {
-	alert("so, so, soooo sad. The author is crying now... thanks.");
+	alert("So, so, soooo sad you heartless sumbitch. The author is crying now... thanks.");
 }
